@@ -1,4 +1,4 @@
-module github.com/Package
+module github.com/grbisba/package/pgxpool
 
 go 1.23.0
 
